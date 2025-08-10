@@ -1,0 +1,17 @@
+/* index.css or App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364); /* Choose one style */
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+main {
+  background-color: transparent;
+}
