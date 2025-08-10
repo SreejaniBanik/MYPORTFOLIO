@@ -1,0 +1,68 @@
+.experiences-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  background-color: #6b7540; /* green background */
+  border-radius: 10px;
+  color: #f0f0f0;
+}
+
+.experiences-section h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 40px;
+  font-weight: 900;
+}
+
+.experience-card {
+  background-color: #4a5131; /* darker green card background */
+  border-radius: 10px;
+  padding: 25px 30px;
+  margin-bottom: 30px;
+  box-shadow: none;
+}
+
+.experience-card h3 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: #e6e6b9; /* light yellow-green color */
+}
+
+.company {
+  font-style: italic;
+  color: #d0d4a6; /* softer greenish color */
+  margin-top: 5px;
+  font-weight: 600;
+}
+
+.duration {
+  font-size: 0.9rem;
+  color: #c5ca8e; /* muted light green */
+  margin-bottom: 15px;
+}
+
+.experience-card ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #d9dca0; /* light green */
+}
+
+.experience-card ul li {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+.company a {
+  color: #d9dca0; /* match your greenish text color */
+  text-decoration: none;
+}
+
+.company a:hover {
+  text-decoration: underline;
+}
+
+.location {
+  font-size: 0.9rem;
+  color: #c5ca8e;
+  margin: 2px 0 10px;
+}
